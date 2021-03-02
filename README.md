@@ -1,2 +1,1 @@
-# justoj-core-go
-JustOJ Core (Go Version)
+# JustOJ Core (Go Version)
